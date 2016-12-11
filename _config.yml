@@ -29,6 +29,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 disqus:
   shortname: www-sendung-de
