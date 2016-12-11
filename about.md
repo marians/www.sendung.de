@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Marian Steinbach, born 1977 in Cologne/Germany. This is my blog.
+I'm Marian Steinbach, born 1977 in Cologne/Germany. I am a user experience designer by profession, a cyclist by passion, and father of a little girl. This is my blog.
 
 I have been occupying this URL with personal stuff since [1999](https://web.archive.org/web/19980815000000*/http://www.sendung.de). Then, blogging fatigue, or rather social media fatigue hit me hard and I quit blogging.
 
