@@ -30,3 +30,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+disqus:
+  shortname: www-sendung-de
