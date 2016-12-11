@@ -30,6 +30,6 @@ Then:
 
 - In the settings for the repository, I set the `Source` for GitHub Pages to the `master branch` and hit the `Save` button next to it.
 - Configured the custom domain entry on the settings page to `www.sendung.de`
-- Set up a CNAME for `www.sendung.de` pointint to `marians.github.io` in my DNS provider's admin UI
+- Set up a CNAME for `www.sendung.de` pointing to `marians.github.io` in my DNS provider's admin UI
 
 Check out the [GitHub repository](https://github.com/marians/www.sendung.de) for this blog for configuration details.
