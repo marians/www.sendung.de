@@ -32,3 +32,4 @@ Then:
 - Configured the custom domain entry on the settings page to `www.sendung.de`
 - Set up a CNAME for `www.sendung.de` pointint to `marians.github.io` in my DNS provider's admin UI
 
+Check out the [GitHub repository](https://github.com/marians/www.sendung.de) for this blog for configuration details.
