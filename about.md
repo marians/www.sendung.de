@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Marian Steinbach, born 1977 in Cologne/Germany. This is my blog.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I have been occupying this URL with personal stuff since [1999](https://web.archive.org/web/19980815000000*/http://www.sendung.de). Then, blogging fatigue, or rather social media fatigue hit me hard and I quit blogging.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Now, in December 2016, I want to claim my stake bake. After roughly two years of only sucking from the web and making use of other people's contributions, I feel like contributing little bits and pieces again. I feel like communicating and connecting again. And I strongly believe that there is no better place for this than my own, personal blog.
+
+Let's see where this goes.
+
+This blog is built using [jekyll](http://jekyllrb.com/) and hosted on GitHub pages.
