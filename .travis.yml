@@ -2,7 +2,8 @@ language: ruby
 rvm:
   - 2.2
 
+notifications:
+  email: false
+
 script:
   - bundle exec jekyll build
-
-# unimportant comment
