@@ -16,8 +16,8 @@
 title: What Marian's up to
 description: >
   Everyone should have a personal blog. This is the one of Marian Steinbach.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: http://www.sendung.de
 twitter_username: MarianSteinbach
 github_username: marians
 
