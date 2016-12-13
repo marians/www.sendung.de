@@ -5,7 +5,7 @@ date:   2016-12-13 21:00:00
 tags: diy, bread
 ---
 
-The idea of ~~breaking bad~~ baking bread, really good bread, is super-fascinating to me. I got recently amazed by this guy named Lutz Geißler, who seems to be on a mission and already published nearly 800 bread recipes in his blog called [Plötzblog](https://www.ploetzblog.de/). I found him via an episode of the radio show [Alles in Butter](http://www1.wdr.de/mediathek/audio/wdr5/wdr5-alles-in-butter/index.html) on local radio WDR5. If you want to find out more about him, bread and his driving forces, check out [this lengthy and fascinating talk](https://cre.fm/cre213-brot) with him and Tim Pritlove.
+The idea of ~~breaking bad~~ baking bread, really good bread, is super-fascinating to me. I got recently amazed by this guy named Lutz Geißler, who seems to be on a mission and already published nearly 800 bread recipes in his blog called [Plötzblog](https://www.ploetzblog.de/). I found him via an episode of the radio show [Alles in Butter](http://www1.wdr.de/mediathek/audio/wdr5/wdr5-alles-in-butter/index.html) on local radio WDR5. If you want to find out more about him, bread and his driving forces, check out [this lengthy and fascinating talk](https://cre.fm/cre213-brot) with him and Tim Pritlove (all in German).
 
 ![The Goal](/assets/img/2016-12-13/the-goal.png)
 
