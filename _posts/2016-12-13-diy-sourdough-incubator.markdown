@@ -63,3 +63,7 @@ First thoughts:
 ![The Solution](/assets/img/2016-12-13/sketch-dough-incubator-refined.png)
 
 If you want to join the brainstorming, be my guest! If I really come up with something, which depends on time, priorities, and feasibility, I'll definitely write a follow up.
+
+#### Update 2016-12-15
+
+I ordered a very small (14 x 15 cm) [heat mat](https://www.amazon.de/dp/B00CWSNRUI/) which is sold as terrarium equipment. No idea whether it is really useful for that! However I placed a plastic bowl with roughly 280 gram of sourdough on it. With its ~5 Watts (confirmed with a power meter), the mat rose the dough temperature from roughly 25°C to 32°C within a few hours. Bottom line: that seems to be a suitable source of warmth.
