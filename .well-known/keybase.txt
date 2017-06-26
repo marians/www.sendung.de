@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/marians
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.sendung.de
+  * I am marians (https://keybase.io/marians) on keybase.
+  * I have a public key ASC59Z_e1Q8cm9jPZ4xhDuDFkxS1DJuecrMCau60nd58jgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101139766f384d56cc8cc6692701d3eaf4e1e4ab68509bc95f459df187a0b36a7160a",
+            "host": "keybase.io",
+            "kid": "0120b9f59fded50f1c9bd8cf678c610ee0c59314b50c9b9e72b3026aeeb49dde7c8e0a",
+            "uid": "2689d43fd6ccf7fe1c7823e2bb795219",
+            "username": "marians"
+        },
+        "merkle_root": {
+            "ctime": 1498465117,
+            "hash": "6cb550a838594f316a27167870ffbe47f08f22cc3aab6e4df3acf3c3aec563049dc07ffe7cb0c38e7b947dd56aea074533575195a5049ae390773ef233474739",
+            "hash_meta": "85a53d7f42508e4a9725cae8395d13b9950e40debf8997063f366a83f2b521e1",
+            "seqno": 1193363
+        },
+        "service": {
+            "hostname": "www.sendung.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498465372,
+    "expire_in": 504576000,
+    "prev": "262e6a0fb56006bc58cf0c82ebdaf3fbe192908115f788135e9da6a91d181d3a",
+    "seqno": 33,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgufWf3tUPHJvYz2eMYQ7gxZMUtQybnnKzAmrutJ3efI4Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTM5NzY2ZjM4NGQ1NmNjOGNjNjY5MjcwMWQzZWFmNGUxZTRhYjY4NTA5YmM5NWY0NTlkZjE4N2EwYjM2YTcxNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjlmNTlmZGVkNTBmMWM5YmQ4Y2Y2NzhjNjEwZWUwYzU5MzE0YjUwYzliOWU3MmIzMDI2YWVlYjQ5ZGRlN2M4ZTBhIiwidWlkIjoiMjY4OWQ0M2ZkNmNjZjdmZTFjNzgyM2UyYmI3OTUyMTkiLCJ1c2VybmFtZSI6Im1hcmlhbnMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTg0NjUxMTcsImhhc2giOiI2Y2I1NTBhODM4NTk0ZjMxNmEyNzE2Nzg3MGZmYmU0N2YwOGYyMmNjM2FhYjZlNGRmM2FjZjNjM2FlYzU2MzA0OWRjMDdmZmU3Y2IwYzM4ZTdiOTQ3ZGQ1NmFlYTA3NDUzMzU3NTE5NWE1MDQ5YWUzOTA3NzNlZjIzMzQ3NDczOSIsImhhc2hfbWV0YSI6Ijg1YTUzZDdmNDI1MDhlNGE5NzI1Y2FlODM5NWQxM2I5OTUwZTQwZGViZjg5OTcwNjNmMzY2YTgzZjJiNTIxZTEiLCJzZXFubyI6MTE5MzM2M30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuc2VuZHVuZy5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTg0NjUzNzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMjYyZTZhMGZiNTYwMDZiYzU4Y2YwYzgyZWJkYWYzZmJlMTkyOTA4MTE1Zjc4ODEzNWU5ZGE2YTkxZDE4MWQzYSIsInNlcW5vIjozMywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDOoTW22e8lcFaX4FUp+6zE//FixLri+ebWVFHTv9ZML2yBXhLL07vlf4JaHENfIeRgbzKeHug86Bwdc/8LIugPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgkPcNRnJWn5/qSoLU/iOtYWjocZTf1fsaCQbTvU5+l76jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marians
+
+==================================================================
