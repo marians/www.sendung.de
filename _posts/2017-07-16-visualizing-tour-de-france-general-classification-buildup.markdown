@@ -23,7 +23,7 @@ So, as the above explanation shows, winning the Tour de France takes a long time
 
 As a visual person, I need some visual representation of the GC development. Here is one approach, showing the buid-up (or alternatively: the fall-out) over the first 15 stages.
 
-![Overview](/assets/img/2017-07-16/tour-2017-gc-after-stage-15.png)
+[![Overview](/assets/img/2017-07-16/tour-2017-gc-after-stage-15.png)](/assets/img/2017-07-16/tour-2017-gc-after-stage-15.png)
 
 If that means anything to you, you are looking at a [parallel coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates) chart. The X direction shows the development of the GC from stage to stage. The Y dimension represents the overall duration the riders took, relatively to each other. The GC leader is always shown in the very top with a time offset of zero. The other riders are placed further below, depending on how big their gap is compared to the leader. Each line links these data points from stage to stage for one rider.
 
@@ -35,7 +35,7 @@ Then, for each stage, the visualization shows a bundle of horizontal lines. Thes
 
 When you look at the graph above, you should see clearly: Some stages are more meaningful for the GC than others. They spread the lines out, which means they produce bigger overall time gaps. These tend to be the stages that involve riding uphill or "climbing", as the cycling jargon calls it. However it's still done on a bike, usually. Seeing that, you might get why Tour de France winners tend to be good climbers, which also means they are usually on the lower end of the [BMI](https://en.wikipedia.org/wiki/Body_mass_index) spectrum.
 
-![Detail](/assets/img/2017-07-16/tour-2017-gc-after-stage-15-detail.png)
+[![Detail](/assets/img/2017-07-16/tour-2017-gc-after-stage-15-detail.png)](/assets/img/2017-07-16/tour-2017-gc-after-stage-15-detail.png)
 
 Road cycling nowadays is a team effort. Each team with ambitions to win the GC (and thus the Tour) usually has one rider that is supposed to become the leader. The other riders in the team have the job to help their leader save as much energy as possible. They take turns to keep their leader out of the wind and carry bottles from the team car to the riders, for example. Being up high in the GC is not important for them. And since most riders have no GC ambitions, it's also not surprising to see many lines bend down more and more at some point.
 
