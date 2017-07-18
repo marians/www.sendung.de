@@ -13,7 +13,7 @@ OK, sorry. If you have no interest in the sport of riding bicycles and never hea
 
 To the rest who knows at least that there is such a thing as the Tour de France, let's revisit how that race works. The Tour (as friends call it) is a stage race. The nearly 200 riders, belonging to teams of nine riders each, ride twenty-one stages overall, over the course of twenty-three days.
 
-Each stage can be seen as a race in its own right. Some are normal races, where all riders start together and the fastest riders wins the stage. Then there are time trials, which work a bit different. In an individual time trial (ITT), each rider rides by himself. In a team time trial (TTT), things get a bit more complicated, but in general -- as the name says -- the whole team rides together.
+Each stage can be seen as a race in its own right. Some are normal races, where all riders start together and the fastest rider wins the stage. Then there are time trials, which work a bit different. In an individual time trial (ITT), each rider rides by himself, one after another. In a team time trial (TTT), things get a bit more complicated, but in general -- as the name says -- the whole team rides together.
 
 Regardless if the stage is a time trial stage or not, the time each rider takes from start to finish of a stage is noted and added up in the "General Classification" (GC) after each stage. The leader of the GC gets to wear the famous Yellow Jersey for the next stage. Whoever finished all stages and spent the least time overall, is the overall winner.
 
