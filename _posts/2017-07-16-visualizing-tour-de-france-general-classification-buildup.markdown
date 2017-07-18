@@ -49,4 +49,4 @@ If you have visualizations to share, any questions or comments, please use the c
 
 **Update 2017-07-18 after stage 16**
 
-[![After stage 16](/assets/img/2017-07-16/tour-2017-gc-after-stage-15-detail.png)](/assets/img/2017-07-16/tour-2017-gc-after-stage-16.png)
+[![After stage 16](/assets/img/2017-07-16/tour-2017-gc-after-stage-16.png)](/assets/img/2017-07-16/tour-2017-gc-after-stage-16.png)
