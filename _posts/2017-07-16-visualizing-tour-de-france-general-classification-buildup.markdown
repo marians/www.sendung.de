@@ -46,3 +46,7 @@ I'll probably add a few more graphs here and on [Twitter](https://twitter.com/Ma
 If you'd like to create your own visualizations for the GC or the other classifications of the Tour de France, you can use a tool I wrote to gather the classification data called [tour-tracker](https://github.com/marians/tour-tracker). The source is on Github. The visualization itself is half generated SVG, half manually created stuff which is combined in Illustrator. It could be created complelety programmatically, but I haven't got around to do it yet.
 
 If you have visualizations to share, any questions or comments, please use the comments function below. It might require unblocking Disqus (if you are the Ghostery type of guy, like me).
+
+**Update 2017-07-18 after stage 16**
+
+[![After stage 16](/assets/img/2017-07-16/tour-2017-gc-after-stage-15-detail.png)](/assets/img/2017-07-16/tour-2017-gc-after-stage-16.png)
