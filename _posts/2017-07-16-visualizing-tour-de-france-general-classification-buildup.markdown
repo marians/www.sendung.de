@@ -47,6 +47,6 @@ If you'd like to create your own visualizations for the GC or the other classifi
 
 If you have visualizations to share, any questions or comments, please use the comments function below. It might require unblocking Disqus (if you are the Ghostery type of guy, like me).
 
-**Update 2017-07-19 after stage 17**
+**Update 2017-07-23: After the last stage**
 
-[![After stage 17](/assets/img/2017-07-16/tour-2017-gc-after-stage-17.png)](/assets/img/2017-07-16/tour-2017-gc-after-stage-17.png)
+[![After stage 17](/assets/img/2017-07-16/tour-2017-gc-after-stage-21.png)](/assets/img/2017-07-16/tour-2017-gc-after-stage-21.png)
