@@ -8,7 +8,25 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    {% for photo in page.mf-photo %}
+    <div class="mf-photo"></div>
+      <img src="{{ photo }}" />
+    </div>
+    {% endfor %}
+
     {{ page.content }}
+
+    {% if page.mf-syndication %}
+    <div class="source-links">
+      {% for link in page.mf-syndication %}
+        {% if link contains "instagram.com" %}
+        <p>Originally posted <a href="{{ link }}">to my Instagram account</a>.</p>
+        {% else %}
+        <p>Source: <a href="{{ link }}">{{ link }}</a></p>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
 
   {% if site.disqus.shortname %}
