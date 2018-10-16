@@ -14,6 +14,13 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+        {% elsif post.mf-photo %}
+          {% for photo in post.mf-photo limit:1 %}
+          <a href="{{ post.url | relative_url }}"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.mf-photo.size > 1 %} - {{ post.mf-photo.size }} photos{% endif%}</span></a>
+          <div class="mf-photo">
+            <a href="{{ post.url | relative_url }}"><img src="{{ photo }}" style="max-width: 450px; max-height: 450px; height: auto; width: 100%;"/></a>
+          </div>
+          {% endfor %}
         {% else %}
         <a href="{{ post.url | relative_url }}"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></a>
         {{ post.content }}
