@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Re-claiming my content
-date: 2018-10-16 10:00:00
+date: 2018-10-16 21:00:00
 tags:
  - tech
  - content
@@ -31,7 +31,7 @@ What is that thing called `micropub` in the center of the flow diagram?
 
 It is really the component that enables fast and simple publishing into the Github pages repository. It offers a Micropub API with OAuth authentication on the one side. This opens up publishing to a variety of compatible clients, be it mobile, desktop, web or whatever.
 
-As recommended by Fiona in the post mentioned earlier, I am using [webpage-micropub-to-github](https://github.com/voxpelli/webpage-micropub-to-github) by Pelle Wessmann. It is especially design for Jekyll sites hosted on Github Pages. The configuration (via environment variables) is flexible enough for me to run it in a Docker container without code changes.
+As recommended by Fiona in the post mentioned earlier, I am using [webpage-micropub-to-github](https://github.com/voxpelli/webpage-micropub-to-github) by Pelle Wessmann. It is especially designed for Jekyll sites hosted on Github Pages. The configuration (via environment variables) is flexible enough for me to run it in a Docker container without code changes.
 
 One of the Micropub clients I have tested out and found helpful is [micropublish.net](https://micropublish.net/). It seems to be more than sufficient for quickly posting a link or a note of a few lines.
 
