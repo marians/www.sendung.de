@@ -32,7 +32,7 @@ Vieles fängt beim Einkauf an. Das lokale Supermarkt-Portfolio bietet uns die gr
 
 Besser ist es auf dem Wochenmarkt und im _sehr übersichtlichen_ Bioladen, um es mit Loriot auszudrücken. Frische Lebensmittel gibt es hier in der Regel ohne Verpackung. Beeren gibt es in einer Pappschachtel, Erdbeeren in Pappe oder im Holzkörbchen.
 
-Milchprodukte sind ein Verpackungs-Wahnsinn. Käse scheint es statt am Stück fast nur noch in Scheiben zu geben. Durch Kleinstmengen je Packung, teils unter 100 Gramm, wird das Verhältnis zwischen Inhalt und Packungsmenge unterirdisch! Der Großteil der Milch wird in kaum wiederverwertparen TetraPaks verkauft. Die einzige Milch in Mehrwegflaschen ist von demeter und kostet ca. 80 % mehr als die Bio-Milch von EDEKA (Eigenmarke) oder ALDI Süd. Alternativen wie z. B. den Schlauchbeutel sucht man vergeblich.
+Milchprodukte sind ein Verpackungs-Wahnsinn. Käse scheint es statt am Stück fast nur noch in Scheiben zu geben. Durch Kleinstmengen je Packung, teils unter 100 Gramm, wird das Verhältnis zwischen Inhalt und Packungsmenge unterirdisch! Der Großteil der Milch wird in kaum wiederverwertparen TetraPaks verkauft. Die einzige Milch in Mehrwegflaschen kommt aus dem Berchtesgadener Land und kostet etwa die Hälfte mehr als die Bio-Milch von EDEKA (Eigenmarke) oder ALDI Süd. Alternativen wie z. B. den Schlauchbeutel sucht man vergeblich.
 
 Die nächste Milch ohne Verpackung gibt es an einer [Milch-Tankstelle](http://bauernhofhoeck.de/). Die ist sechs Kilometer entfernt, was vielleicht in Ordnung wäre, wenn man da ohnehin mal vorbei käme. Aber es ist keine Bio-Milch.
 
@@ -95,3 +95,5 @@ Auch sollten meine Kunden mich im Idealfall finden können, ohne gezielt und reg
 Gibt es eine solche Plattform?
 
 Egal, welcher Algorithmus uns tatsächlich zusammen geführt hat, am Ende klingelt hoffentlich ein freundlicher Mensch mit einem Schraubglas an meiner Tür und erleichtert mich von einer weiteren Portion Kichererbsen. Und bringt mir Alkohol mit. Und Zitronensäure.
+
+**Update 29.10.2018**: Ich hatte zuvor aus dem Gedächtnis geschrieben, die einzige Flaschenmilch in meiner Nähe sei eine demeter-Milch, die 80% mehr kostet, als die Eigenmarke. Das stimmte nicht ganz. Tatsächlich handelt es sich um eine demeter-Biomilch von Berchtesgadener Land, also aus der Alpenregion. Sie kostet knapp die Hälfte mehr als die Eigenmarke, die im TetraPak verkauft wird.
