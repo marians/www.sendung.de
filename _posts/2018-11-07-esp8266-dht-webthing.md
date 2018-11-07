@@ -7,7 +7,7 @@ tags:
  - things
 ---
 
-After reading through some of the Mozilla IOT examples, I got an ESP8266 to 
+After reading through some of the Mozilla IoT examples, I got an ESP8266 to 
 publish temperature and humidity values via the Web Thing API.
 
 Here is the code:
