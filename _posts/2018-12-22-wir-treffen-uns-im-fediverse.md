@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wir treffen uns im Fediverse!
-date: 2018-12-22 01:00:00
+date: 2018-12-22 19:00:00
 tags:
  - socialmedia
  - fediverse
