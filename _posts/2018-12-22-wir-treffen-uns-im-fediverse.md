@@ -76,12 +76,12 @@ Meinen Benutzernamen kennst Du ja schon mal. Ich freue mich auf Dein "Hello Worl
 
 Ein paar Links zum Weiterklicken:
 
-- https://besser.demkontinuum.de/2018/12/mastodon-s01e06/ - Eine Podcast-Episode, in der Mastodon detailreich erklärt wird.
+- [Besser - Der Podcast #S01E06](https://besser.demkontinuum.de/2018/12/mastodon-s01e06/) - Eine Podcast-Episode, in der Mastodon detailreich erklärt wird.
 
-- https://mastodon.social/@Gargron - Mastodon-Profil von Eugen Rochko, Entwickler von Mastodon
+- [mastodon.social/@Gargron](https://mastodon.social/@Gargron) - Mastodon-Profil von Eugen Rochko, Entwickler von Mastodon
 
-- https://github.com/tootsuite/mastodon - Mastodon auf Github
+- [Mastodon auf Github](https://github.com/tootsuite/mastodon)
 
-- https://www.patreon.com/mastodon - Patreon-Projektseite zu Mastodon
+- [Patreon-Projektseite zu Mastodon](https://www.patreon.com/mastodon)
 
-- https://mastodon.social - Die von Eugen Rochko betriebene Mastodon-Instanz ist offen für Registrierungen und ein einfacher Weg, einen Mastodon-Account zu bekommen.
+- [mastodon.social](https://mastodon.social/) - Die von Eugen Rochko betriebene Mastodon-Instanz ist offen für Registrierungen und ein einfacher Weg, einen Mastodon-Account zu bekommen.
