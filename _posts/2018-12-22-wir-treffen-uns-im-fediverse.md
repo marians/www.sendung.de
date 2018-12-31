@@ -8,7 +8,7 @@ tags:
  - mastodon
 ---
 
-Der Jahreswechsel steht an, und damit zwei Gründe, sich mit Alternativen für die zentralen sozialen Netzwerke zu befassen:
+Der Jahreswechsel steht an, und damit drei Gründe, sich mit Alternativen für die zentralen sozialen Netzwerke zu befassen:
 
 1. Wir brauchen natürlich einen guten Vorsatz für das neue Jahr (oder eher für die ersten paar Wochen des neuen Jahrs)
 2. Wir haben vielleicht ein bisschen Urlaub und Zeit
