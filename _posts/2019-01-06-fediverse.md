@@ -24,7 +24,7 @@ Auch mit den aktuell 3 Millionen Benutzer*innen lässt sich schon ein persönlic
 
 ## 3. Die Vielfalt der Tools im Fediverse ist jetzt noch überschaubar
 
-Aber sie wächst beinahe Tag für Tag. Im Moment gibt es Alternativen zu Twitter ([Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/)), Facebook ([Diaspora](https://diasporafoundation.org/), [Friendica](https://friendi.ca/), ...), Instagram ([Pixelfed](https://pixelfed.social/)), YouTube ([Peertube](https://joinpeertube.org/en/)), Reddit/Hackernews ([Prismo](https://gitlab.com/mbajur/prismo)), Medium ([Plume](https://joinplu.me/)), PasetBin ([DistBin](http://distbin.com/)), SoundCloud ([FunkyWhale](https://funkwhale.audio/)). Sie alle basieren auf dem ActivityPub Protokoll und sind darauf ausgelegt, mit einander zu kommunizieren.
+Aber sie wächst beinahe Tag für Tag. Im Moment gibt es Alternativen zu Twitter ([Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/)), Facebook ([Diaspora](https://diasporafoundation.org/), [Friendica](https://friendi.ca/), ...), Instagram ([Pixelfed](https://pixelfed.social/)), YouTube ([Peertube](https://joinpeertube.org/en/)), Reddit/Hackernews ([Prismo](https://gitlab.com/mbajur/prismo)), Medium ([Plume](https://joinplu.me/)), PasetBin ([DistBin](http://distbin.com/)), SoundCloud ([FunkWhale](https://funkwhale.audio/)). Sie alle basieren auf dem ActivityPub Protokoll und sind darauf ausgelegt, mit einander zu kommunizieren.
 
 ## 4. Der nächste Datenskandal bei Facebook und Twitter kommt bestimmt
 
