@@ -85,3 +85,5 @@ Ein paar Links zum Weiterklicken:
 - [Patreon-Projektseite zu Mastodon](https://www.patreon.com/mastodon)
 
 - [mastodon.social](https://mastodon.social/) - Die von Eugen Rochko betriebene Mastodon-Instanz ist offen für Registrierungen und ein einfacher Weg, einen Mastodon-Account zu bekommen.
+
+Nächster Post: [Gekommen, um zu bleiben: Gründe, jetzt das Fediverse zu betreten](https://www.sendung.de/2019-01-06/fediverse/)
