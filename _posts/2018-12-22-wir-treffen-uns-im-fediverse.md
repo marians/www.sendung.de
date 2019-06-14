@@ -48,7 +48,7 @@ Und nicht zuletzt können in Toots Nutzer*innen in Nachrichten adressiert werden
 
 eingeben.
 
-Das ist prinzipell ein bisschen länger, als wir es von Twitter gewöhnt sind. Doch die Bedienoberflächen der gängisten Fediverse-Anwendungen bieten einige Erleichterungen, damit das Adressieren einfach und fehlerfrei klapp. Und es ist natürlich jedem freigestellt, sich einen eigenen Mastodon-Server (im Jargon: eine eigene Instanz) aufzusetzen und dabei eine sehr kurze Domain und nur einen einzigen Buchstaben als Benutzernamen zu verwenden.
+Das ist prinzipell ein bisschen länger, als wir es von Twitter gewöhnt sind. Doch die Bedienoberflächen der gängisten Fediverse-Anwendungen bieten einige Erleichterungen, damit das Adressieren einfach und fehlerfrei klappt. Und es ist natürlich jedem freigestellt, sich einen eigenen Mastodon-Server (im Jargon: eine eigene Instanz) aufzusetzen und dabei eine sehr kurze Domain und nur einen einzigen Buchstaben als Benutzernamen zu verwenden.
 
 Was aber, wenn man nicht selbst eine Mastodon-Instanz berteiben möchte? Dann wählt man eine der vielen bestehenden aus, etwa über Sites wie [instances.social](https://instances.social/). Da gibt es auch Hilfestellung zu den Kriterien, zum Beispiel die Versionsnummer, die durchschnittliche Uptime und andere. Das wichtigste Kriterium dürfte aber Vertrauen in die Betreiber sein und darin, dass der Dienst auch in ein paar Monaten noch gewissenhaft administeriert wird.
 
