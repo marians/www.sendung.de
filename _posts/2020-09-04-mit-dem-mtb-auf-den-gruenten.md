@@ -2,6 +2,8 @@
 layout: post
 title: Mit dem Mountainbike auf den Grünten? Nein.
 date: 2020-09-04 12:00:00
+mf-photo:
+  - 'https://www.sendung.de/media/2020-09-04/bike-left-back.jpg'
 tags:
  - cycling
 ---
@@ -30,6 +32,11 @@ An einem Wegweiser, der den Gipfel in fünf Gehminuten in Aussicht stellt, lasse
 
 Für den Weg nach unten entscheide ich mich, die Empfehlung von Komoot zu ignorieren und auf genau dem gleichen Weg abzusteigen bzw. zu fahren, auf dem ich gekommen bin. Denn nach Komoot hätte ich auf der Südseite einen direkteren, noch steileren Weg nach Burgberg genommen. Nach meiner Erfahrung mit der bisherigen Komoot-Empfehlung ("Auf einigen Passagen wirst du dein Rad vielleicht schieben müssen") ist meine Abenteuerlust gering und ich setze auf Sicherheit.
 
-Allen, die Lust haben, den Grünten größtenteils mit dem Rad zu erklimmen, empfehle ich: Nehmt ein Fahrradschloss und, alls ihr mit Cleats fahren wollt, ein paar bergtaugliche Schuhe (stabile Turnschuhe könnten reichen) mit. Stellt das Rad an der Grüntenhütte ab und geht die letzten 20 bis 30 Minuten zu Fuß. Was selbstverständlich sein sollte: prüft vor der Tour eure Bremsen, denn die werdet ihr bergab intensiv beanspruchen.
+Allen, die Lust haben, den Grünten größtenteils mit dem Rad zu erklimmen, empfehle ich: Nehmt ein Fahrradschloss und, falls ihr mit Klickpedalen fahren wollt, ein paar bergtaugliche Schuhe (stabile Turnschuhe könnten reichen) mit. Stellt das Rad an der Grüntenhütte ab und geht die letzten 20 bis 30 Minuten zu Fuß. Was selbstverständlich sein sollte: prüft vor der Tour eure Bremsen, denn die werdet ihr bergab intensiv beanspruchen.
 
-Viel Spaß, und bleibt gesund!
+Habt Ihr andere Erfahrungen gemacht? Schreibt einen Kommentar oder mailt an `marian` `AT` `sendung.de`.
+
+![Jägerdenkmal und Sendemast auf dem Grünten](https://www.sendung.de/media/2020-09-04/jaegerdenkmal.jpg)
+![Blick vom Gipfel in Richtung Norden](https://www.sendung.de/media/2020-09-04/look-down-north.jpg)
+![Ist steil, sieht steil aus](https://www.sendung.de/media/2020-09-04/steep.jpg)
+![Letzter Fahrradständer vor dem Gipfel](https://www.sendung.de/media/2020-09-04/bike-left-back.jpg)
