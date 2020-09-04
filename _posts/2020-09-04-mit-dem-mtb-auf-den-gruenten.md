@@ -16,7 +16,7 @@ Mir ging es auch so. Der Grünten ist ein alleinsteheder, attraktiver Gipfel und
 
 Ich bemühe Google und finde Informationen, dass es Touren-Guides gibt, die solche Touren anbieten. Im Sommer am Abend hoch, um vom Gipfel aus die Sonne untergehen zu sehen. Dann in der Dämmerung wieder runter. Sogar mit dem E-Bike soll das funktionieren. Sprich: auch weniger sportliche Fahrer_innen mit schwerem Gerät werden angesprochen.
 
-Auf Komoot baue ich mir Routen von verschiedenen Ausgangspunkten auf den Gipfel. Das Ergebnis: in Wagneritz geht es los, dann über steile Serpentinen auf der Nordwestseite etwa bis zur Hälfte. Danach nach Norden/Nordosten und ziemlich geradlinig bis zur Grüntenhütte. Auf Teilstücken wird eine Steigung von 26, 30 und sogar 36 Prozent erreicht. Dafür ist der Untergrund zum größten Teil alsphaltiert. Komoot warnt:
+Auf [Komoot](https://www.komoot.de/) baue ich mir Routen von verschiedenen Ausgangspunkten auf den Gipfel. Das Ergebnis: in Wagneritz geht es los, dann über steile Serpentinen auf der Nordwestseite etwa bis zur Hälfte. Danach nach Norden/Nordosten und ziemlich geradlinig bis zur Grüntenhütte. Auf Teilstücken wird eine Steigung von 26, 30 und sogar 36 Prozent erreicht. Dafür ist der Untergrund zum größten Teil alsphaltiert. Komoot warnt:
 
 > "Schwere Mountainbike-Tour. Sehr gute Kondition erforderlich. Fortgeschrittene Fahrtechnik notwendig. Auf einigen Passagen wirst du dein Rad vielleicht schieben müssen."
 
