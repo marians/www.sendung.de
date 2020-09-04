@@ -36,7 +36,10 @@ Allen, die Lust haben, den Grünten größtenteils mit dem Rad zu erklimmen, emp
 
 Habt Ihr andere Erfahrungen gemacht? Schreibt einen Kommentar oder mailt an `marian` `AT` `sendung.de`.
 
-![Jägerdenkmal und Sendemast auf dem Grünten](https://www.sendung.de/media/2020-09-04/jaegerdenkmal.jpg)
-![Blick vom Gipfel in Richtung Norden](https://www.sendung.de/media/2020-09-04/look-down-north.jpg)
 ![Ist steil, sieht steil aus](https://www.sendung.de/media/2020-09-04/steep.jpg)
+
 ![Letzter Fahrradständer vor dem Gipfel](https://www.sendung.de/media/2020-09-04/bike-left-back.jpg)
+
+![Jägerdenkmal und Sendemast auf dem Grünten](https://www.sendung.de/media/2020-09-04/jaegerdenkmal.jpg)
+
+![Blick vom Gipfel in Richtung Norden](https://www.sendung.de/media/2020-09-04/look-down-north.jpg)
