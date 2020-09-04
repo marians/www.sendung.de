@@ -22,7 +22,7 @@ Auf [Komoot](https://www.komoot.de/) baue ich mir Routen von verschiedenen Ausga
 
 Okay, sage ich mir, Schieben ist in Ordnung, und lade die Tour auf meinen Fahrradcomputer.
 
-Bis zur Grüntenhütte (1477 m) muss ich nur ein einizes Mal vom Rad, weil ich die Steigung nicht schaffe. Der Rest ist auch kein Zuckerschlecken. In der Stille kann ich meinen Puls hören, laut und schnell, auch wenn ich im Schnitt nur mit sechs km/h vorankomme. Egal, es geht mir nicht um Geschwindigkeit.
+Bis zur Grüntenhütte (1477 m) muss ich nur ein einizes Mal vom Rad, weil ich die Steigung nicht schaffe. Der Rest ist aber kein Zuckerschlecken. In der Stille kann ich meinen Puls hören, laut und schnell, auch wenn ich im Schnitt nur mit sechs km/h vorankomme. Egal, es geht mir nicht um Geschwindigkeit.
 
 Ab der Grüntenhütte ist es mit dem Asphalt vorbei. Hier bestimmen Erde und grobes Geröll den Untergrund. Und es wird steiler. Schon nach wenigen hundert Metern ist es mit dem Fahren für mich vorbei. Ich schiebe mein Rad, in der Hoffnung, dass wieder besser fahrbare Wege folgen.
 
