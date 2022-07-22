@@ -2,3 +2,4 @@
 /_jekyll
 /.hugo_build.lock
 /node_modules
+/public
