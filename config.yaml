@@ -1,0 +1,60 @@
+baseURL: https://www.sendung.de/
+languageCode: de-de
+title: Marian's Garden
+theme: digitalgarden
+
+Params:
+  description: A place where Marian dumps his stuff, hoping that something may grow out of it.
+  images:
+    - /digital-garden-logo.png
+
+permalinks:
+  articles: /:year-:month-:day/:slug/
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Articles
+      url: /articles/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+
+  social:
+    - identifier: mastodon-de
+      name: Mastodon
+      url: https://gruene.social/@marian
+      title: German Mastodon account
+      weight: 1
+    - identifier: mastodon-en
+      name: Mastodon
+      url: https://mastodon.social/@sendung
+      title: English Mastodon account
+      weight: 2
+    - name: Codeberg
+      url: https://codeberg.org/marians
+      title: Personal Codeberg.org profile
+      weight: 3
+    - name: GitHub
+      url: https://github.com/marians
+      title: Personal GitHub account
+      weight: 4
+    - name: RSS
+      url: /articles/index.xml
+      title: RSS feed
+      weight: 5
+
+# syntax highlight settings
+markup:
+  highlight:
+    style: dracula
+  goldmark:
+    renderer:
+      # Enable to include inline HTML
+      unsafe: true
