@@ -4,7 +4,7 @@ slug: zusammen-nachhaltiger
 lang: de
 date: 2018-10-21 17:50:00
 tags:
- - sustainability
+  - sustainability
 ---
 
 **Vom (Gedanken-)Experiment des Müllvermeidens zu einer hyperlokalen Tauschplattform für den täglichen Bedarf**

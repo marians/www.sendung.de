@@ -1,6 +1,6 @@
 ---
 title: "Idea: DIY Sourdough Incubator"
-slug: idea-diy-sourdough-incubator
+slug: diy-sourdough-incubator
 lang: de
 date: 2016-12-13 21:00:00
 tags:

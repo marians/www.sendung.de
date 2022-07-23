@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 07 Nov 2018 09:30:00 +0000</lastBuildDate><atom:link href="https://marians.codeberg.page/tags/things/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESP8266 publishing DHT temperature and humidity via Web Thing API</title>
-      <link>https://marians.codeberg.page/2018-11-07/esp8266-dht-temperature-humidity-webthing-api/</link>
+      <link>https://marians.codeberg.page/2018-11-07/esp8266-dht-webthing/</link>
       <pubDate>Wed, 07 Nov 2018 09:30:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2018-11-07/esp8266-dht-temperature-humidity-webthing-api/</guid>
+      <guid>https://marians.codeberg.page/2018-11-07/esp8266-dht-webthing/</guid>
       <description>After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.
 Here is the code:
 Link</description>

@@ -23,7 +23,7 @@
     <loc>https://marians.codeberg.page/tags/cycling/</loc>
     <lastmod>2020-09-04T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marians.codeberg.page/2020-09-04/nicht-mit-dem-mtb-auf-den-gruenten/</loc>
+    <loc>https://marians.codeberg.page/2020-09-04/mit-dem-mtb-auf-den-gruenten/</loc>
     <lastmod>2020-09-04T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marians.codeberg.page/tags/fediverse/</loc>
@@ -44,7 +44,7 @@
     <loc>https://marians.codeberg.page/tags/arduino/</loc>
     <lastmod>2018-11-07T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://marians.codeberg.page/2018-11-07/esp8266-dht-temperature-humidity-webthing-api/</loc>
+    <loc>https://marians.codeberg.page/2018-11-07/esp8266-dht-webthing/</loc>
     <lastmod>2018-11-07T09:30:00+00:00</lastmod>
   </url><url>
     <loc>https://marians.codeberg.page/tags/things/</loc>
@@ -56,7 +56,7 @@
     <loc>https://marians.codeberg.page/2018-10-21/zusammen-nachhaltiger/</loc>
     <lastmod>2018-10-21T17:50:00+00:00</lastmod>
   </url><url>
-    <loc>https://marians.codeberg.page/2018-10-16/re-claiming-my-content/</loc>
+    <loc>https://marians.codeberg.page/2018-10-16/reclaiming-my-content/</loc>
     <lastmod>2018-10-16T21:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marians.codeberg.page/2017-07-16/visualizing-tour-de-france-general-classification-buildup/</loc>
@@ -68,7 +68,11 @@
     <loc>https://marians.codeberg.page/tags/diy/</loc>
     <lastmod>2016-12-13T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marians.codeberg.page/2016-12-13/idea-diy-sourdough-incubator/</loc>
+    <loc>https://marians.codeberg.page/2016-12-13/diy-sourdough-incubator/</loc>
     <lastmod>2016-12-13T21:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marians.codeberg.page/about/</loc>
+  </url><url>
+    <loc>https://marians.codeberg.page/links/</loc>
   </url>
 </urlset>

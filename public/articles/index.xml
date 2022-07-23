@@ -19,10 +19,10 @@ hosted by Codeberg instead of GitHub, created using Hugo instead of Jekyll, usin
     
     <item>
       <title>Mit dem Mountainbike auf den Grünten? Nein.</title>
-      <link>https://marians.codeberg.page/2020-09-04/nicht-mit-dem-mtb-auf-den-gruenten/</link>
+      <link>https://marians.codeberg.page/2020-09-04/mit-dem-mtb-auf-den-gruenten/</link>
       <pubDate>Fri, 04 Sep 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2020-09-04/nicht-mit-dem-mtb-auf-den-gruenten/</guid>
+      <guid>https://marians.codeberg.page/2020-09-04/mit-dem-mtb-auf-den-gruenten/</guid>
       <description>Wer ins Oberallgäu fährt und eine Leidenschaft für das Radfahren mitbringt, wird vielleicht auf die Idee kommen, mit dem Mountainbike auf den Grünten, den &amp;ldquo;Wächter des Allgäus&amp;rdquo;, zu fahren.
 Spoiler: es macht keinen Sinn und ist gefährlich.
 Mir ging es auch so. Der Grünten ist ein alleinstehender, attraktiver Gipfel und mit 1738 m höher als viele andere Berge in der Umgebung. Außerdem gibt es (außer für Mitarbeiter_innen des Bayerischen Rundfunk) keine Bergbahn.</description>
@@ -34,7 +34,8 @@ Mir ging es auch so. Der Grünten ist ein alleinstehender, attraktiver Gipfel un
       <pubDate>Sun, 06 Jan 2019 21:18:00 +0000</pubDate>
       
       <guid>https://marians.codeberg.page/2019-01-06/gruende-jetzt-das-fediverse-zu-betreten/</guid>
-      <description>In meinem vorigen Beitrag Wir treffen uns im Fediverse habe ich über dezentrale soziale Netzwerke und das Fediverse geschrieben.
+      <description>Zuletzt aktualisiert am 22. Juli 2022
+In meinem vorigen Beitrag Wir treffen uns im Fediverse habe ich über dezentrale soziale Netzwerke und das Fediverse geschrieben.
 Verglichen mit den großen, zentralisierten Vorbildern ist das Fediverse im Moment klein. the-federation.info listet noch nicht einmal 3 Mio Accounts. Etwa 500.000 davon waren innerhalb der letzten 30 Tage aktiv. Lohnt es sich da, Zeit zu investieren, sich ein Netzwerk aufzubauen und Tools zu testen? Oder sogar darüber zu reden und andere Menschen, die wir im Fediverse vermissen würden, zum Mitmachen zu überreden?</description>
     </item>
     
@@ -50,10 +51,10 @@ Wir brauchen natürlich einen guten Vorsatz für das neue Jahr (oder eher für d
     
     <item>
       <title>ESP8266 publishing DHT temperature and humidity via Web Thing API</title>
-      <link>https://marians.codeberg.page/2018-11-07/esp8266-dht-temperature-humidity-webthing-api/</link>
+      <link>https://marians.codeberg.page/2018-11-07/esp8266-dht-webthing/</link>
       <pubDate>Wed, 07 Nov 2018 09:30:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2018-11-07/esp8266-dht-temperature-humidity-webthing-api/</guid>
+      <guid>https://marians.codeberg.page/2018-11-07/esp8266-dht-webthing/</guid>
       <description>After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.
 Here is the code:
 Link</description>
@@ -72,10 +73,10 @@ Eigentlich möchte ich gar nicht erst anfangen, zu erklären, warum. Eigentlich 
     
     <item>
       <title>Re-claiming my content</title>
-      <link>https://marians.codeberg.page/2018-10-16/re-claiming-my-content/</link>
+      <link>https://marians.codeberg.page/2018-10-16/reclaiming-my-content/</link>
       <pubDate>Tue, 16 Oct 2018 21:00:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2018-10-16/re-claiming-my-content/</guid>
+      <guid>https://marians.codeberg.page/2018-10-16/reclaiming-my-content/</guid>
       <description>Yesterday I was stuck in a commute situation, so I had a rare moment of boredom and reflection and decided to google jekyll microblogging to find out how easy it would be to make my blog fit smaller content chunks. I felt like gathering what I&amp;rsquo;m emitting on my home turf, at www.sendung.de, which is a Jekyll site served by Github Pages.
 What I found was a great post by Fiona Voss that shows a way to re-claim my content by using my own blog as the center of my conversation in other channels.</description>
     </item>
@@ -94,10 +95,10 @@ To the rest who knows at least that there is such a thing as the Tour de France,
     
     <item>
       <title>Idea: DIY Sourdough Incubator</title>
-      <link>https://marians.codeberg.page/2016-12-13/idea-diy-sourdough-incubator/</link>
+      <link>https://marians.codeberg.page/2016-12-13/diy-sourdough-incubator/</link>
       <pubDate>Tue, 13 Dec 2016 21:00:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2016-12-13/idea-diy-sourdough-incubator/</guid>
+      <guid>https://marians.codeberg.page/2016-12-13/diy-sourdough-incubator/</guid>
       <description>The idea of breaking bad baking bread, really good bread, is super-fascinating to me. I got recently amazed by this guy named Lutz Geißler, who seems to be on a mission and already published nearly 800 bread recipes in his blog called Plötzblog. I found him via an episode of the radio show Alles in Butter on local radio WDR5. If you want to find out more about him, bread and his driving forces, check out this lengthy and fascinating talk with him and Tim Pritlove (all in German).</description>
     </item>
     

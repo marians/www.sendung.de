@@ -1,11 +1,11 @@
 ---
 title: Mit dem Mountainbike auf den Grünten? Nein.
 description: Erfahrungsbericht über meinen Versuch, den Gipfel des Grünten (Allgäu) mit dem Fahrrad zu erreichen. Ich rate davon eher ab.
-slug: nicht-mit-dem-mtb-auf-den-gruenten
+slug: mit-dem-mtb-auf-den-gruenten
 lang: de
 date: 2020-09-04 12:00:00
 tags:
- - cycling
+  - cycling
 ---
 
 Wer ins Oberallgäu fährt und eine Leidenschaft für das Radfahren mitbringt, wird vielleicht auf die Idee kommen, mit dem Mountainbike auf den Grünten, den "Wächter des Allgäus", zu fahren.

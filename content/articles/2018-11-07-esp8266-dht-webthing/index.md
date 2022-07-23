@@ -1,12 +1,12 @@
 ---
 title: ESP8266 publishing DHT temperature and humidity via Web Thing API
-slug: esp8266-dht-temperature-humidity-webthing-api
+slug: esp8266-dht-webthing
 lang: de
 date: 2018-11-07 09:30:00
 tags:
- - arduino
- - things
- - tech
+  - arduino
+  - things
+  - tech
 ---
 
 After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.

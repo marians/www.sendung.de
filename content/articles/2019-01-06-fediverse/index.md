@@ -4,10 +4,14 @@ slug: gruende-jetzt-das-fediverse-zu-betreten
 lang: de
 date: 2019-01-06 21:18:00
 tags:
- - socialmedia
- - fediverse
- - mastodon
+  - socialmedia
+  - fediverse
+  - mastodon
+aliases:
+  - /2019-01-06/fediverse/
 ---
+
+_Zuletzt aktualisiert am 22. Juli 2022_
 
 In meinem vorigen Beitrag [Wir treffen uns im Fediverse]({{< relref "/articles/2018-12-22-wir-treffen-uns-im-fediverse" >}}) habe ich über dezentrale soziale Netzwerke und das Fediverse geschrieben.
 
@@ -21,11 +25,17 @@ Gandhi sagte angeblich: "Be the change you wish to see in the world". Wie würde
 
 ## 2. So wenige sind das gar nicht
 
-Auch mit den aktuell 3 Millionen Benutzer*innen lässt sich schon ein persönliches Netzwerk aufbauen. [@nextcloud@mastodon.xyz](https://mastodon.xyz/@nextcloud) - inhaltlich identisch mit dem Twitter-Account [Nextclouders](https://twitter.com/Nextclouders) – hat rund 3.200 Folgende. Bei dem Twitter-Pendant sind es gerade mal viermal so viele. [Aral Balkan](https://mastodon.ar.al/@aral), ein profilierter Aktivist für verteilte, dezentrale soziale Medien, hat 4.280 Follower - entspricht 10% seiner Follower-Zahl auf Twitter.
+Auch mit den aktuell (Stand: 22. Juli 2022) 5,7 Millionen Benutzer*innen lässt sich schon ein persönliches Netzwerk aufbauen. Ein paar Beispiele.
+
+[@nextcloud@mastodon.xyz](https://mastodon.xyz/@nextcloud) -- inhaltlich identisch mit dem Twitter-Account [Nextclouders](https://twitter.com/Nextclouders) -- hat 13.800 Follower. Bei dem Twitter-Pendant sind es etwa 34.000.
+
+[Aral Balkan](https://mastodon.ar.al/@aral), ein profilierter Aktivist für verteilte, dezentrale soziale Medien, hat 11.900 Follower auf Mastodon und 42.300 auf Twitter.
+
+[Jan Böhmermann](https://edi.social/@janboehm), der seit dem 25. April 2022 auf Mastodon aktiv ist, hat seitdem 23.000 Follower gesammelt. Auf Twitter sind es aktuell 2,6 Mio.
 
 ## 3. Die Vielfalt der Tools im Fediverse ist jetzt noch überschaubar
 
-Aber sie wächst beinahe Tag für Tag. Im Moment gibt es Alternativen zu Twitter ([Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/)), Facebook ([Diaspora](https://diasporafoundation.org/), [Friendica](https://friendi.ca/), ...), Instagram ([Pixelfed](https://pixelfed.social/)), YouTube ([Peertube](https://joinpeertube.org/en/)), Reddit/Hackernews ([Prismo](https://gitlab.com/mbajur/prismo)), Medium ([Plume](https://joinplu.me/)), PasetBin ([DistBin](http://distbin.com/)), SoundCloud ([FunkWhale](https://funkwhale.audio/)). Sie alle basieren auf dem ActivityPub Protokoll und sind darauf ausgelegt, mit einander zu kommunizieren.
+Aber sie wächst beinahe Tag für Tag. Im Moment gibt es Alternativen zu Twitter ([Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/)), Facebook ([Diaspora](https://diasporafoundation.org/), [Friendica](https://friendi.ca/), ...), Instagram ([Pixelfed](https://pixelfed.social/)), YouTube ([Peertube](https://joinpeertube.org/en/)), Reddit/Hackernews ([Prismo](https://gitlab.com/prismosuite/prismo)), Medium ([Plume](https://joinplu.me/)), PasteBin ([DistBin](https://github.com/gobengo/distbin)), SoundCloud ([FunkWhale](https://funkwhale.audio/)). Sie alle basieren auf dem ActivityPub Protokoll und sind darauf ausgelegt, mit einander zu kommunizieren.
 
 ## 4. Der nächste Datenskandal bei Facebook und Twitter kommt bestimmt
 
@@ -34,6 +44,8 @@ Bist Du dann bereits im Fediverse aktiv, wirst Du Dich bestätigt fühlen. Ein g
 ## 5. Größe ist nicht alles
 
 Was Du jetzt beispielsweise auf Mastodon veröffentlichst, erreicht zwar numerisch und theoretisch eine kleinere Zahl an Nutzer*innen, als es potentiell auf Twitter der Fall ist. Ich könnte mir aber vorstellen, dass die Qualität der Interaktionen und die Bereitschaft, sich auf einen Beitrag einzulassen (z. B. durch Link anklicken, antworten, boosten - als re-tweeten) auf Mastodon eine andere ist.
+
+Immer wieder liest man Beiträge auf Mastodon, in denen Nutzer:innen berichten, wie sie auf Mastodon, trotz geringerer Anzahl folgender Accounts, deutlich mehr Reaktionen erhalten. Das könnte auch darauf zurück zu führen sein, dass die meisten Rezipient:innen das Fediverse nicht durch Algorithmen gefiltert wahrnehmen, die versuchen, den bereits populären Beiträgen und Accounts zu noch mehr Aufmerksamkeit zu verschaffen. Auf Mastodon wird strikt chronologisch sortiert. Das führt dazu, dass die Chancen, wahrgenommen zu werden, deutlich gleicher verteilt sind.
 
 ## 6. Du willst doch Avantgarde sein
 
@@ -51,6 +63,6 @@ Wenn Du darüber nachdenkst, ziehe auch den umgekehrten Weg in Betracht: bespiel
 
 ## 9. Die Mühe ist nicht umsonst
 
-Die Zeit, die Du in Mastodon investierst, ist nicht "für die Katz", selbst wenn Du Dich entschließen solltest, später auf eine andere Instanz zu setzen oder sogar ganz von Mastodon Abstand zu nehmne. Du wirst Deine Daten sehr warscheinlich zu anderen Diensten/Plattformen/Instanzen migrieren können, wenn sich herausstellt, dass Du lieber einen anderen nutzen würdest. Das Fediverse ist offen. Datenportabilität ist bei Plattformen wie Mastodon von Tag Eins mitgedacht. Einzig Deine Follower bekommst Du nicht automatisch zu einem anderen Dienst portiert. Denen musst Du mitteilen, wenn Sie Dir anderswo folgen sollen. Aber auch das wird sicher eines Tages von irgend einem Dienst unterstützt.
+Die Zeit, die Du in Mastodon investierst, ist nicht "für die Katz", selbst wenn Du Dich entschließen solltest, später auf eine andere Instanz zu setzen oder sogar ganz von Mastodon Abstand zu nehmne. Du wirst Deine Daten sehr warscheinlich zu anderen Diensten/Plattformen/Instanzen migrieren können, wenn sich herausstellt, dass Du lieber einen anderen nutzen würdest. Das Fediverse ist offen. Datenportabilität ist bei Plattformen wie Mastodon von Tag Eins mitgedacht. Beim Umzug zwischen zwei Mastodon-Instanzen werden sogar deine Follower automatisch mit umgezogen.
 
-Also los! Ich bin [@sendung@chaos.social](https://chaos.social/@sendung)
+Also los! Ich bin [@marian@gruene.social](https://gruene.social/@marian)

@@ -4,9 +4,9 @@ slug: wir-treffen-uns-im-fediverse
 lang: de
 date: 2018-12-22 19:00:00
 tags:
- - socialmedia
- - fediverse
- - mastodon
+  - socialmedia
+  - fediverse
+  - mastodon
 ---
 
 Der Jahreswechsel steht an, und damit drei Gründe, sich mit Alternativen für die zentralen sozialen Netzwerke zu befassen:

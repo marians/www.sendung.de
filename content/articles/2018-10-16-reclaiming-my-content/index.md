@@ -1,11 +1,11 @@
 ---
 title: Re-claiming my content
-slug: re-claiming-my-content
+slug: reclaiming-my-content
 lang: en
 date: 2018-10-16 21:00:00
 tags:
- - tech
- - content
+  - tech
+  - content
 ---
 
 Yesterday I was stuck in a commute situation, so I had a rare moment of boredom and reflection and decided to google `jekyll microblogging` to find out how easy it would be to make my blog fit smaller content chunks. I felt like gathering what I'm emitting on my home turf, at [www.sendung.de](https://www.sendung.de/), which is a Jekyll site served by Github Pages.

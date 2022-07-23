@@ -25,6 +25,12 @@ menu:
     - name: Tags
       url: /tags/
       weight: 3
+    - name: Links
+      url: /links/
+      weight: 4
+    - name: About me
+      url: /about/
+      weight: 5
 
   social:
     - identifier: mastodon-de
