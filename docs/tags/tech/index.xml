@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech on Marian&#39;s Garden</title>
-    <link>https://marians.codeberg.page/tags/tech/</link>
+    <link>https://www.sendung.de/tags/tech/</link>
     <description>Recent content in tech on Marian&#39;s Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 22 Jul 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://marians.codeberg.page/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website tech update</title>
-      <link>https://marians.codeberg.page/2022-07-22/website-tech-update/</link>
+      <link>https://www.sendung.de/2022-07-22/website-tech-update/</link>
       <pubDate>Fri, 22 Jul 2022 13:00:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2022-07-22/website-tech-update/</guid>
+      <guid>https://www.sendung.de/2022-07-22/website-tech-update/</guid>
       <description>It was time for several updates. This site is now
 hosted by Codeberg instead of GitHub, created using Hugo instead of Jekyll, using a different template/theme. I&amp;rsquo;m also contributing as few additions to the Hugo theme.</description>
     </item>
     
     <item>
       <title>ESP8266 publishing DHT temperature and humidity via Web Thing API</title>
-      <link>https://marians.codeberg.page/2018-11-07/esp8266-dht-webthing/</link>
+      <link>https://www.sendung.de/2018-11-07/esp8266-dht-webthing/</link>
       <pubDate>Wed, 07 Nov 2018 09:30:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2018-11-07/esp8266-dht-webthing/</guid>
+      <guid>https://www.sendung.de/2018-11-07/esp8266-dht-webthing/</guid>
       <description>After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.
 Here is the code:
 Link</description>
@@ -30,10 +30,10 @@ Link</description>
     
     <item>
       <title>Re-claiming my content</title>
-      <link>https://marians.codeberg.page/2018-10-16/reclaiming-my-content/</link>
+      <link>https://www.sendung.de/2018-10-16/reclaiming-my-content/</link>
       <pubDate>Tue, 16 Oct 2018 21:00:00 +0000</pubDate>
       
-      <guid>https://marians.codeberg.page/2018-10-16/reclaiming-my-content/</guid>
+      <guid>https://www.sendung.de/2018-10-16/reclaiming-my-content/</guid>
       <description>Yesterday I was stuck in a commute situation, so I had a rare moment of boredom and reflection and decided to google jekyll microblogging to find out how easy it would be to make my blog fit smaller content chunks. I felt like gathering what I&amp;rsquo;m emitting on my home turf, at www.sendung.de, which is a Jekyll site served by Github Pages.
 What I found was a great post by Fiona Voss that shows a way to re-claim my content by using my own blog as the center of my conversation in other channels.</description>
     </item>
