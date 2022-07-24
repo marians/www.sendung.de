@@ -3,6 +3,7 @@ title: "Idea: DIY Sourdough Incubator"
 slug: diy-sourdough-incubator
 lang: de
 date: 2016-12-13 21:00:00
+description: Starting a sourdough failed several times for me. I'd like to make the process more fail-safe. Here I'm reflecting on the idea of a DIY incubator with controlled temperature and humidity.
 tags:
   - diy
   - bread
