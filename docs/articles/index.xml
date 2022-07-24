@@ -6,7 +6,18 @@
     <description>Recent content in Articles on Marian&#39;s Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 22 Jul 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energy efficiency of programming languages</title>
+      <link>https://www.sendung.de/2022-07-24/programming-languages-energy-efficiency/</link>
+      <pubDate>Sun, 24 Jul 2022 13:00:00 +0000</pubDate>
+      
+      <guid>https://www.sendung.de/2022-07-24/programming-languages-energy-efficiency/</guid>
+      <description>Servers are taking an ever growing share of our electricity usage. Of course, they exist to run applications. And the energy consumption is, to a large degree, determined by the applications running on them.
+Ironically, servers turn electricical energy into thermal energy and thus contribute to global warming in a very concrete sense.
+When I look around, I don&amp;rsquo;t see a lot of discussion happening around the responsibility of application developers regarding energy usage and the impact this has on climate change.</description>
+    </item>
+    
     <item>
       <title>Website tech update</title>
       <link>https://www.sendung.de/2022-07-22/website-tech-update/</link>
