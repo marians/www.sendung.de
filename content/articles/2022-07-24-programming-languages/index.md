@@ -3,6 +3,9 @@ title: Energy efficiency of programming languages
 slug: programming-languages-energy-efficiency
 date: 2022-07-24 13:00:00
 description: More and more server side applications are constantly contributing to the global electricity usage. As a developer, you might be responsible for such applications. Have you ever considered the impact which the selection of the programming language has on the energy consumption?
+tags:
+  - sustainability
+  - tech
 ---
 
 Servers are taking an [ever growing share](https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market) of our electricity usage. Of course, they exist to run applications. And the energy consumption is, to a large degree, determined by the applications running on them.
