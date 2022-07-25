@@ -6,6 +6,10 @@ description: More and more server side applications are constantly contributing 
 tags:
   - sustainability
   - tech
+comments:
+  host: mastodon.social
+  username: sendung
+  id: 108702630896547339
 ---
 
 Servers are taking an [ever growing share](https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market) of our electricity usage. Of course, they exist to run applications. And the energy consumption is, to a large degree, determined by the applications running on them.

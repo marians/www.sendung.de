@@ -12,6 +12,8 @@ Most of my content is in English, some is in German.
 
 ### July 2022
 
+💬 This site now has a commenting system based on Mastodon. You can see it in action at the end of the [my recent article]({{< relref "/2022-07-24-programming-languages" >}}). Credits to [Carl Schwan](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/).
+
 💥 New article: [Energy efficiency of programming languages]({{< relref "/2022-07-24-programming-languages" >}})
 
 ✏️ Updated the German article [Gekommen, um zu bleiben: Gründe, jetzt das Fediverse zu betreten]({{< relref "/articles/2019-01-06-fediverse" >}}).

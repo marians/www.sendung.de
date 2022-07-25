@@ -1,4 +1,9 @@
-{{ $built := resources.Get "js/main.js" | js.Build "main.js" }}
-<script type="text/javascript" src="{{ $built.RelPermalink }}" defer></script>
+{{ $main := resources.Get "js/main.js" }}
+{{ $purify := resources.Get "js/purify.js" }}
+{{ $comments := resources.Get "js/mastodon-comments.js" }}
+{{ $js := slice $main $purify $comments | resources.Concat "js/bundle.js" | resources.Minify }}
+{{ $secureJS := $js | resources.Fingerprint "sha512" }}
+
+<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" defer></script>
 
 {{ template "_internal/google_analytics.html" . }}

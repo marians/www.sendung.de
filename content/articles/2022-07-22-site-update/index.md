@@ -11,7 +11,7 @@ tags:
 
 It was time for several updates. This site is now
 
-- hosted by [Codeberg](https://docs.codeberg.org/codeberg-pages/) instead of GitHub,
+- ~~hosted by [Codeberg](https://docs.codeberg.org/codeberg-pages/) instead of GitHub,~~ Edit: doesn't work yet, so for now it's still GitHub.
 - created using [Hugo](https://gohugo.io/) instead of Jekyll,
 - using a different [template/theme](https://github.com/apvarun/digital-garden-hugo-theme).
 

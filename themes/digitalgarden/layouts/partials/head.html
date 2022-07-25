@@ -13,16 +13,14 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
   
   {{- if .Keywords }}
-  <meta name="keywords" content="{{ delimit .Keywords "," }}" />
+  <meta name="keywords" content="{{ delimit .Keywords ',' }}" />
   {{ end -}}
   
   {{- if .Params.Author }}
   <meta name="author" content="{{ .Params.Author}}" />
   {{ end -}}
-  
-  {{ hugo.Generator }}
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | absURL}}" />
+  {{ partial "style.html" . }}
 
   <!-- Katex support -->
   {{ if .Params.math }}
@@ -50,8 +48,6 @@
   {{ template "_internal/opengraph.html" . }}
 
   {{ template "_internal/twitter_cards.html" . }}
-
-  {{ template "_internal/schema.html" . }}
 
   {{ template "_internal/schema.html" . }}
 </head>
