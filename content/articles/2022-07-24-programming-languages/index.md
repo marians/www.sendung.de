@@ -37,8 +37,5 @@ Maybe the numbers are not surprising to you, because you know about the differen
 
 ## References
 
-Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha,
-João Paulo Fernandes, and João Saraiva. 2017. Energy Efficiency
-across Programming Languages. In Proceedings of SLE’17, Vancouver,
-BC, Canada, October 23-24, 2017, 12 pages.
-https://doi.org/10.1145/3136014.3136031 - [PDF](https://haslab.github.io/SAFER/scp21.pdf)
+Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandesd, João Saraiva. 2021. Ranking Programming Languages by Energy Efficiency. Preprint submitted to Elsevier.
+https://haslab.github.io/SAFER/scp21.pdf
