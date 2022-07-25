@@ -15,4 +15,4 @@ It was time for several updates. This site is now
 - created using [Hugo](https://gohugo.io/) instead of Jekyll,
 - using a different [template/theme](https://github.com/apvarun/digital-garden-hugo-theme).
 
-I'm also [contributing](https://github.com/apvarun/digital-garden-hugo-theme/pulls?q=is%3Apr+author%3Amarians) as few additions to the Hugo theme.
+I'm also [contributing](https://github.com/apvarun/digital-garden-hugo-theme/pulls?q=is%3Apr+author%3Amarians) a few additions to the Hugo theme.
