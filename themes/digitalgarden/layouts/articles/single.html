@@ -35,24 +35,28 @@
   </section>
 
   <div class="overflow-y-auto h-screen w-full">
-    <article class="px-6 py-20 w-full mx-auto prose lg:prose-lg h-fit dark:prose-invert prose-img:mx-auto">
 
-      {{ $title := .Params.title }}
-      <h1 class="!mb-2">{{ $title }}</h1>
-      {{ if .Date }}
-      <p class="text-sm text-slate-500 !mb-8">{{ .Date.Format "January 2, 2006" }}</p>
-      {{ end }}
+    <div class="px-6 py-12 pt-20 w-full mx-auto h-fit">
+      <article class="prose lg:prose-lg dark:prose-invert prose-img:mx-auto">
 
-      {{ with .Params.images }}
-      {{- range first 1 . }}
-      <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $title }}" />
-      {{ end -}}
-      {{ end }}
+        {{ $title := .Params.title }}
+        <h1 class="!mb-2">{{ $title }}</h1>
+        {{ if .Date }}
+        <p class="text-sm text-slate-500 !mb-8">{{ .Date.Format "January 2, 2006" }}</p>
+        {{ end }}
 
-      {{ .Content }}
-    </article>
+        {{ with .Params.images }}
+        {{- range first 1 . }}
+        <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $title }}" />
+        {{ end -}}
+        {{ end }}
+
+        {{ .Content }}
+      </article>
+    </div>
+
+    {{ partial "mastodon-comments.html" . }}
   </div>
-
 </div>
 
 {{ end }}
