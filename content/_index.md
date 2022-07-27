@@ -12,6 +12,8 @@ Most of my content is in English, some is in German.
 
 ### July 2022
 
+✅ Verifying my website for <a rel="me" href="https://gruene.social/@marian">my Mastodon profile</a>.
+
 💬 This site now has a commenting system based on Mastodon. You can see it in action at the end of the [my recent article]({{< relref "/2022-07-24-programming-languages" >}}). Credits to [Carl Schwan](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/).
 
 💥 New article: [Energy efficiency of programming languages]({{< relref "/2022-07-24-programming-languages" >}})
