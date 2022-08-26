@@ -10,6 +10,10 @@ Most of my content is in English, some is in German.
 
 ## What happened recently
 
+### August 2022
+
+🫶 I'm starting to use [Netlify](https://www.netlify.com/) with (HUGO) sites hosted on Codeberg and [this little post](https://blog.spacebear.ee/post/deploy-gitea-repos-to-netlify/) was a great help.
+
 ### July 2022
 
 ✅ Verifying my website for <a rel="me" href="https://gruene.social/@marian">my Mastodon profile</a>.
