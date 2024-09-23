@@ -17,7 +17,7 @@ In the beginning we started with putting little hygrometers in the basement room
 
 We learned that air exchange didn't actually get the relative humidity value down. Sometimes it was quite the opposite. Clearly the outside air was as humid or more humid than the air inside. So we started monitoring outside humidity, too, to decide when to ventilate.
 
-This only worked at the rare times when outside and inside temperatures were roughly the same. But when it was warmer outside than inside, ventilation would actually result in more humnidity inside, even if the relative humidity outside was lower. How?
+This only worked at the rare times when outside and inside temperatures were roughly the same. But when it was warmer outside than inside, ventilation would actually result in more humidity inside, even if the relative humidity outside was lower. How?
 
 Relative humidity is a measure for the amount of water contained in an amount of air, compared to the maximum amount of water that the air can hold at a given temperature.
 
