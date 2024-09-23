@@ -1,7 +1,9 @@
+---
 title: Relative humidity is misleading
 slug: relative-humidity-dewpoint
-date: 2024-09-23 13:00:00
+date: 2024-09-23 21:00:00
 description: Consumer devices show humidity as a percentage, the relative humidity. When trying to keep a room dry, this is hugely misleading. The more useful value is the dewpoint.
+lang: en
 tags:
   - tech
   - home
