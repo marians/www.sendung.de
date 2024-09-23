@@ -6,8 +6,15 @@
     <description>Recent content in Tech on Marian&#39;s Garden</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 24 Jul 2022 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sendung.de/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relative humidity is misleading</title>
+      <link>https://www.sendung.de/2024-09-23/relative-humidity-dewpoint/</link>
+      <pubDate>Mon, 23 Sep 2024 21:00:00 +0000</pubDate>
+      <guid>https://www.sendung.de/2024-09-23/relative-humidity-dewpoint/</guid>
+      <description>As many people, we have a basement where we store way too many things. On top of that, it&amp;rsquo;s where we wash and tumble-dry our clothes. Our biggest concern is that we might get mold one day. High air humidity is a big factor in mold growth, so we aim to keep the humidity low and we constantly monitor the humidity.&#xA;How to keep the basement dry? In the beginning we started with putting little hygrometers in the basement rooms.</description>
+    </item>
     <item>
       <title>Energy efficiency of programming languages</title>
       <link>https://www.sendung.de/2022-07-24/programming-languages-energy-efficiency/</link>

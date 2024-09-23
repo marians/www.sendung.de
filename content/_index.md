@@ -10,6 +10,10 @@ Most of my content is in English, some is in German.
 
 ## What happened recently
 
+### September 2024
+
+💦 New article: [Relative humidity is misleading]({{< relref "/articles/2024-09-23-relative-humidity-dewpoint" >}}) explains how I found that to keep the basement dry, I have to watch the dewpoint instead of relative humidity.
+
 ### August 2022
 
 🫶 I'm starting to use [Netlify](https://www.netlify.com/) with (HUGO) sites hosted on Codeberg and [this little post](https://blog.spacebear.ee/post/deploy-gitea-repos-to-netlify/) was a great help.
