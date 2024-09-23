@@ -4,107 +4,86 @@
     <title>Tags on Marian&#39;s Garden</title>
     <link>https://www.sendung.de/tags/</link>
     <description>Recent content in Tags on Marian&#39;s Garden</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 24 Jul 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 13:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.sendung.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>sustainability</title>
+      <title>Sustainability</title>
       <link>https://www.sendung.de/tags/sustainability/</link>
       <pubDate>Sun, 24 Jul 2022 13:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/sustainability/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tech</title>
+      <title>Tech</title>
       <link>https://www.sendung.de/tags/tech/</link>
       <pubDate>Sun, 24 Jul 2022 13:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/tech/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>content</title>
+      <title>Content</title>
       <link>https://www.sendung.de/tags/content/</link>
       <pubDate>Fri, 22 Jul 2022 13:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/content/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cycling</title>
+      <title>Cycling</title>
       <link>https://www.sendung.de/tags/cycling/</link>
       <pubDate>Fri, 04 Sep 2020 12:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/cycling/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fediverse</title>
+      <title>Fediverse</title>
       <link>https://www.sendung.de/tags/fediverse/</link>
       <pubDate>Sun, 06 Jan 2019 21:18:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/fediverse/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mastodon</title>
+      <title>Mastodon</title>
       <link>https://www.sendung.de/tags/mastodon/</link>
       <pubDate>Sun, 06 Jan 2019 21:18:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/mastodon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>socialmedia</title>
+      <title>Socialmedia</title>
       <link>https://www.sendung.de/tags/socialmedia/</link>
       <pubDate>Sun, 06 Jan 2019 21:18:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/socialmedia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>arduino</title>
+      <title>Arduino</title>
       <link>https://www.sendung.de/tags/arduino/</link>
       <pubDate>Wed, 07 Nov 2018 09:30:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/arduino/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>things</title>
+      <title>Things</title>
       <link>https://www.sendung.de/tags/things/</link>
       <pubDate>Wed, 07 Nov 2018 09:30:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/things/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bread</title>
+      <title>Bread</title>
       <link>https://www.sendung.de/tags/bread/</link>
       <pubDate>Tue, 13 Dec 2016 21:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/bread/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>diy</title>
+      <title>Diy</title>
       <link>https://www.sendung.de/tags/diy/</link>
       <pubDate>Tue, 13 Dec 2016 21:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/tags/diy/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

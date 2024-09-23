@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bread on Marian&#39;s Garden</title>
+    <title>Bread on Marian&#39;s Garden</title>
     <link>https://www.sendung.de/tags/bread/</link>
-    <description>Recent content in bread on Marian&#39;s Garden</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Bread on Marian&#39;s Garden</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 13 Dec 2016 21:00:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2016 21:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.sendung.de/tags/bread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Idea: DIY Sourdough Incubator</title>
       <link>https://www.sendung.de/2016-12-13/diy-sourdough-incubator/</link>
       <pubDate>Tue, 13 Dec 2016 21:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/2016-12-13/diy-sourdough-incubator/</guid>
       <description>The idea of breaking bad baking bread, really good bread, is super-fascinating to me. I got recently amazed by this guy named Lutz Geißler, who seems to be on a mission and already published nearly 800 bread recipes in his blog called Plötzblog. I found him via an episode of the radio show Alles in Butter on local radio WDR5. If you want to find out more about him, bread and his driving forces, check out this lengthy and fascinating talk with him and Tim Pritlove (all in German).</description>
     </item>
-    
   </channel>
 </rss>

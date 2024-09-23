@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>socialmedia on Marian&#39;s Garden</title>
+    <title>Socialmedia on Marian&#39;s Garden</title>
     <link>https://www.sendung.de/tags/socialmedia/</link>
-    <description>Recent content in socialmedia on Marian&#39;s Garden</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Socialmedia on Marian&#39;s Garden</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 06 Jan 2019 21:18:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/tags/socialmedia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jan 2019 21:18:00 +0000</lastBuildDate>
+    <atom:link href="https://www.sendung.de/tags/socialmedia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gekommen, um zu bleiben: Gründe, jetzt das Fediverse zu betreten</title>
       <link>https://www.sendung.de/2019-01-06/gruende-jetzt-das-fediverse-zu-betreten/</link>
       <pubDate>Sun, 06 Jan 2019 21:18:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/2019-01-06/gruende-jetzt-das-fediverse-zu-betreten/</guid>
-      <description>Zuletzt aktualisiert am 22. Juli 2022
-In meinem vorigen Beitrag Wir treffen uns im Fediverse habe ich über dezentrale soziale Netzwerke und das Fediverse geschrieben.
-Verglichen mit den großen, zentralisierten Vorbildern ist das Fediverse im Moment klein. the-federation.info listet noch nicht einmal 3 Mio Accounts. Etwa 500.000 davon waren innerhalb der letzten 30 Tage aktiv. Lohnt es sich da, Zeit zu investieren, sich ein Netzwerk aufzubauen und Tools zu testen? Oder sogar darüber zu reden und andere Menschen, die wir im Fediverse vermissen würden, zum Mitmachen zu überreden?</description>
+      <description>Zuletzt aktualisiert am 16. Oktober 2022&#xA;In meinem vorigen Beitrag Wir treffen uns im Fediverse habe ich über dezentrale soziale Netzwerke und das Fediverse geschrieben.&#xA;Verglichen mit den großen, zentralisierten Vorbildern ist das Fediverse im Moment klein. the-federation.info listet etwas über 6,1 Millionen Accounts. Etwa 580.000 davon waren innerhalb der letzten 30 Tage aktiv. Lohnt es sich da, Zeit zu investieren, sich ein Netzwerk aufzubauen und Tools zu testen? Oder sogar darüber zu reden und andere Menschen, die wir im Fediverse vermissen würden, zum Mitmachen zu überreden?</description>
     </item>
-    
     <item>
       <title>Wir treffen uns im Fediverse!</title>
       <link>https://www.sendung.de/2018-12-22/wir-treffen-uns-im-fediverse/</link>
       <pubDate>Sat, 22 Dec 2018 19:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/2018-12-22/wir-treffen-uns-im-fediverse/</guid>
-      <description>Der Jahreswechsel steht an, und damit drei Gründe, sich mit Alternativen für die zentralen sozialen Netzwerke zu befassen:
-Wir brauchen natürlich einen guten Vorsatz für das neue Jahr (oder eher für die ersten paar Wochen des neuen Jahrs) Wir haben vielleicht ein bisschen Urlaub und Zeit Die Bekanntwerdung des neusten Facebook-Skandals liegt erst wenige Tage zurück Die Facebooks und Twitters können nicht unsere Zukunft sein. Brauchst Du Gründe? Die Macht, die diese Konzerne konzentrieren, ist gefährlich.</description>
+      <description>Der Jahreswechsel steht an, und damit drei Gründe, sich mit Alternativen für die zentralen sozialen Netzwerke zu befassen:&#xA;Wir brauchen natürlich einen guten Vorsatz für das neue Jahr (oder eher für die ersten paar Wochen des neuen Jahrs) Wir haben vielleicht ein bisschen Urlaub und Zeit Die Bekanntwerdung des neusten Facebook-Skandals liegt erst wenige Tage zurück Die Facebooks und Twitters können nicht unsere Zukunft sein. Brauchst Du Gründe? Die Macht, die diese Konzerne konzentrieren, ist gefährlich.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sustainability on Marian&#39;s Garden</title>
+    <title>Sustainability on Marian&#39;s Garden</title>
     <link>https://www.sendung.de/tags/sustainability/</link>
-    <description>Recent content in sustainability on Marian&#39;s Garden</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Sustainability on Marian&#39;s Garden</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 24 Jul 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 13:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.sendung.de/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Energy efficiency of programming languages</title>
       <link>https://www.sendung.de/2022-07-24/programming-languages-energy-efficiency/</link>
       <pubDate>Sun, 24 Jul 2022 13:00:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/2022-07-24/programming-languages-energy-efficiency/</guid>
-      <description>Servers are taking an ever growing share of our electricity usage. Of course, they exist to run applications. And the energy consumption is, to a large degree, determined by the applications running on them.
-Ironically, servers turn electricical energy into thermal energy and thus contribute to global warming in a very concrete sense.
-When I look around, I don&amp;rsquo;t see a lot of discussion happening around the responsibility of application developers regarding energy usage and the impact this has on climate change.</description>
+      <description>Servers are taking an ever growing share of our electricity usage. Of course, they exist to run applications. And the energy consumption is, to a large degree, determined by the applications running on them.&#xA;Ironically, servers turn electricical energy into thermal energy and thus contribute to global warming in a very concrete sense.&#xA;When I look around, I don&amp;rsquo;t see a lot of discussion happening around the responsibility of application developers regarding energy usage and the impact this has on climate change.</description>
     </item>
-    
     <item>
       <title>Zusammen braucht man weniger</title>
       <link>https://www.sendung.de/2018-10-21/zusammen-nachhaltiger/</link>
       <pubDate>Sun, 21 Oct 2018 17:50:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/2018-10-21/zusammen-nachhaltiger/</guid>
-      <description>Vom (Gedanken-)Experiment des Müllvermeidens zu einer hyperlokalen Tauschplattform für den täglichen Bedarf
-Language notice: this is a post about how to share resources between neighbours. As I am living in Germany and my neighbours speak German mostly, I feel like I have to write this in German.
-Eigentlich möchte ich gar nicht erst anfangen, zu erklären, warum. Eigentlich möchte ich einfach voraussetzen, dass wir alle der Meinung sind, dass wir unseren Fußabdruck so klein halten sollten, wie möglich.</description>
+      <description>Vom (Gedanken-)Experiment des Müllvermeidens zu einer hyperlokalen Tauschplattform für den täglichen Bedarf&#xA;Language notice: this is a post about how to share resources between neighbours. As I am living in Germany and my neighbours speak German mostly, I feel like I have to write this in German.&#xA;Eigentlich möchte ich gar nicht erst anfangen, zu erklären, warum. Eigentlich möchte ich einfach voraussetzen, dass wir alle der Meinung sind, dass wir unseren Fußabdruck so klein halten sollten, wie möglich.</description>
     </item>
-    
   </channel>
 </rss>

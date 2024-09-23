@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>things on Marian&#39;s Garden</title>
+    <title>Things on Marian&#39;s Garden</title>
     <link>https://www.sendung.de/tags/things/</link>
-    <description>Recent content in things on Marian&#39;s Garden</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Things on Marian&#39;s Garden</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 07 Nov 2018 09:30:00 +0000</lastBuildDate><atom:link href="https://www.sendung.de/tags/things/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Nov 2018 09:30:00 +0000</lastBuildDate>
+    <atom:link href="https://www.sendung.de/tags/things/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESP8266 publishing DHT temperature and humidity via Web Thing API</title>
       <link>https://www.sendung.de/2018-11-07/esp8266-dht-webthing/</link>
       <pubDate>Wed, 07 Nov 2018 09:30:00 +0000</pubDate>
-      
       <guid>https://www.sendung.de/2018-11-07/esp8266-dht-webthing/</guid>
-      <description>After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.
-Here is the code:
-Link</description>
+      <description>After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.&#xA;Here is the code:&#xA;Link</description>
     </item>
-    
   </channel>
 </rss>
