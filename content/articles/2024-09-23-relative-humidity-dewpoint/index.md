@@ -21,7 +21,7 @@ This only worked at the rare times when outside and inside temperatures were rou
 
 Relative humidity is a measure for the amount of water contained in an amount of air, compared to the maximum amount of water that the air can hold at a given temperature.
 
-Let's say, the air outside at 20 °C has 65 percent relative humidity. In the basement it's 15 °C and 7 percent. Time to ventilate? No. The outside air holds 11.2 grams of water per cubic meter, while in the basement it's 9,6 grams. [Calculate for yourself](https://www.calculator.net/dew-point-calculator.html?airtemperature=20&airtemperatureunit=celsius&humidity=65&dewpoint=&dewpointunit=celsius&x=Calculate). Cooled down to 15 °C, the air we would let into the basement would have a relative humidity of 89 percent – much higher than the value we started from.
+Let's say, the air outside at 20 °C has 65 percent relative humidity. In the basement it's 15 °C and 75 percent. Time to ventilate? No. The outside air holds 11.2 grams of water per cubic meter, while in the basement it's 9,6 grams. [Calculate for yourself](https://www.calculator.net/dew-point-calculator.html?airtemperature=20&airtemperatureunit=celsius&humidity=65&dewpoint=&dewpointunit=celsius&x=Calculate). Cooled down to 15 °C, the air we would let into the basement would have a relative humidity of 89 percent – much higher than the value we started from.
 
 Relative humidity is useless for our purpose. I would argue, this measure does more harm than good.
 
