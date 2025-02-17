@@ -10,6 +10,10 @@ Most of my content is in English, some is in German.
 
 ## What happened recently
 
+### February 2025
+
+Video: [Wie Ihr Euch ein Mastodon-Konto auf GRUENE.SOCIAL einrichtet](https://peertube.netzbegruenung.de/w/fh378NDtwuf9szAGfj8PRf). Richtet sich an Mitglieder und Gliederungen von BÜNDNIS 90/DIE GRÜNEN.
+
 ### September 2024
 
 💦 New article: [Relative humidity is misleading]({{< relref "/articles/2024-09-23-relative-humidity-dewpoint" >}}) explains how I found that to keep the basement dry, I have to watch the dewpoint instead of relative humidity.
