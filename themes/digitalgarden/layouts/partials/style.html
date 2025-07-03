@@ -1,6 +1,6 @@
 {{- $tailwind := resources.Get "css/tailwind.css" }}
-{{- $tailwindProcessed := $tailwind | resources.PostCSS }}
-{{- $main := resources.Get "css/main.scss" | resources.ToCSS }}
+{{- $tailwindProcessed := $tailwind | css.PostCSS }}
+{{- $main := resources.Get "css/main.scss" | css.Sass }}
 {{- $css := slice $tailwindProcessed $main | resources.Concat "css/bundle.css" | resources.Minify }}
 {{- $fingerprintedCSS := $css | resources.Fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $fingerprintedCSS.RelPermalink }}" />
