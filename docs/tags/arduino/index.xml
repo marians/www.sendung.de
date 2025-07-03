@@ -13,7 +13,7 @@
       <link>https://www.sendung.de/2018-11-07/esp8266-dht-webthing/</link>
       <pubDate>Wed, 07 Nov 2018 09:30:00 +0000</pubDate>
       <guid>https://www.sendung.de/2018-11-07/esp8266-dht-webthing/</guid>
-      <description>After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.&#xA;Here is the code:&#xA;Link</description>
+      <description>&lt;p&gt;After reading through some of the Mozilla IoT examples, I got an ESP8266 to publish temperature and humidity values via the Web Thing API.&lt;/p&gt;&#xA;&lt;p&gt;Here is the code:&lt;/p&gt;&#xA;&lt;script src=&#34;https://gist.github.com/marians/15440a219a72f95b31421e646dffc11f.js&#34;&gt;&lt;/script&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gist.github.com/marians/15440a219a72f95b31421e646dffc11f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
