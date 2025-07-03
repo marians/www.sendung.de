@@ -6,7 +6,11 @@ description: Immer wieder mal komme ich in die Situation, dass ich zu einer What
 lang: de
 tags:
   - tech
-  - home
+  - ethics
+comments:
+  host: gruene.social
+  username: marian
+  id: 114789349296980383
 ---
 
 Immer wieder mal komme ich in die Situation, dass ich zu einer WhatsApp-Gruppe eingeladen werde. Und dann muss ich leider ablehnen und erklären, dass ich WhatsApp nicht benutze. Selten habe ich dann die Zeit, die gründe ausführlich zu erklären. Deshalb schreibe ich sie hier auf.
@@ -26,4 +30,4 @@ Alternativen, die ich gerne nutze und empfehle:
 1. [Signal](https://signal.org/)
 2. [Threema](https://threema.com/)
 
-Wenn Du auch zu denjenigen gehörst, die in Ihrem Umfeld Menschen auf die Problem mit WhatsApp oder anderen digitalen Werkzeugen, oder insgesamt schädlichen aber akzeptierten Verhaltensweisen aufmerksam machen: ich Wünsche Dir viel Kraft! Tritt weiter für Deine Überzeugungen ein und lass Dich nicht mit dem Argument entmutigen, Du seist die/der Einzige, die/der etwas verkomplizieren will. Auch wenn es manchmal ausweglos aussieht, es kommt auf jede:n Einzelne:n an. Und Du bist nicht allein.
+Wenn Du auch zu denjenigen gehörst, die in ihrem Umfeld Menschen auf die Problem mit WhatsApp oder anderen digitalen Werkzeugen, oder insgesamt schädlichen aber akzeptierten Verhaltensweisen aufmerksam machen: ich wünsche Dir viel Kraft! Tritt weiter für Deine Überzeugungen ein und lass Dich nicht mit dem Argument entmutigen, Du seist die/der Einzige, die/der etwas verkomplizieren will. Auch wenn es manchmal ausweglos aussieht, es kommt auf jede:n Einzelne:n an. Und Du bist nicht allein.
