@@ -7,6 +7,10 @@ lang: en
 tags:
   - tech
   - home
+comments:
+  host: mastodon.social
+  username: sendung
+  id: 113191326083241941
 ---
 
 As many people, we have a basement where we store way too many things. On top of that, it's where we wash and tumble-dry our clothes. Our biggest concern is that we might get mold one day. High air humidity is a big factor in mold growth, so we aim to keep the humidity low and we constantly monitor the humidity.
