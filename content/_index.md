@@ -10,6 +10,14 @@ Most of my content is in English, some is in German.
 
 ## What happened recently
 
+### January 2026
+
+The [Digital Independence Day](https://di.day/) initiative by German Chaos Computer Club (CCC) is a promising campaign to raise awareness about digital sovereignty and strikes close to home. It inspired me to adress a few dependencies in my own digital life. And, of course, it reminded me that a personal blog is a nice and independent piece of sovereign communication to have.
+
+### November 2025
+
+I've launched a hyper-local journalism project for my home town: [rösrathblog](https://roesrathblog.de/). The idea is to grow it into a community-driven platform that doesn't depend too much on me.
+
 ### February 2025
 
 Video: [Wie Ihr Euch ein Mastodon-Konto auf GRUENE.SOCIAL einrichtet](https://peertube.netzbegruenung.de/w/fh378NDtwuf9szAGfj8PRf). Richtet sich an Mitglieder und Gliederungen von BÜNDNIS 90/DIE GRÜNEN.
