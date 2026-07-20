@@ -14,7 +14,7 @@ comments:
   id: 116954089081058188
 ---
 
-Anlässlich der Pläne unserer Regierung, das Informationsfreiheitsgesetz (IFG) des Bundes zu beschneiden, habe ich einen Brief an die Bundestagsabgeordnete meines Wahlkreises geschrieben. Hier ist der Text.
+Anlässlich der Pläne unserer Regierung, das Informationsfreiheitsgesetz (IFG) des Bundes zu beschneiden, habe ich einen Brief an die Bundestagsabgeordnete meines Wahlkreises, [Caroline Bosbach](https://www.bundestag.de/abgeordnete/biografien/B/bosbach_caroline-1043774) (CDU) geschrieben. Hier ist der Text.
 
 ---
 
