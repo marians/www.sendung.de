@@ -1,7 +1,7 @@
 ---
 title: Brief an MdB Caroline Bosbach zur Informationsfreiheit
 slug: brief-zur-informationsfreiheit
-date: 2026-07-20 21:00:00
+date: 2026-07-20 19:00:00
 description: Anlässlich der Pläne unserer Regierung, das Informationsfreiheitsgesetz (IFG) des Bundes zu beschneiden, habe ich einen Brief an die Bundestagsabgeordnete meines Wahlkreises geschrieben. Hier ist der Text.
 lang: de
 tags:
