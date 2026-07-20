@@ -12,7 +12,7 @@ Most of my content is in English, some is in German.
 
 ### July 2026
 
-[Brief an Caroline Bosbach](/articles/2026-07-20-brief-zum-ifg"), die Bundestagsabgeordnete des Rheinisch-Bergischen Kreises, zum Informationsfreiheitsgesetz.
+[Brief an Caroline Bosbach](/articles/2026-07-20-brief-zum-ifg), die Bundestagsabgeordnete des Rheinisch-Bergischen Kreises, zum Informationsfreiheitsgesetz.
 
 ### January 2026
 
