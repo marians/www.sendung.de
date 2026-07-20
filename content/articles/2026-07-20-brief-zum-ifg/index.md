@@ -8,10 +8,10 @@ tags:
   - democracy
   - transparency
   - freedom-of-information
-#comments:
-#  host: gruene.social
-#  username: marian
-#  id: 114789349296980383
+comments:
+  host: gruene.social
+  username: marian
+  id: 116954089081058188
 ---
 
 Anlässlich der Pläne unserer Regierung, das Informationsfreiheitsgesetz (IFG) des Bundes zu beschneiden, habe ich einen Brief an die Bundestagsabgeordnete meines Wahlkreises geschrieben. Hier ist der Text.
